@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pavel\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\pavel\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_GreenHouse.-1116850666.00" t="ExcludeRecursive" />
+    <e p="D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse" t="IncludeFlat">
+      <e p="DAL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="ImageRepository.cs" t="Include" />
+          <e p="PlantRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EnvironmentModulation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Environment.cs" t="Include" />
+        <e p="EnvironmentModulation.csproj" t="IncludeRecursive" />
+        <e p="IEnvironment.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GreenHouse" t="IncludeRecursive">
+        <e p="AddDeviceForm.cs" t="Include" />
+        <e p="AddDeviceForm.Designer.cs" t="Include" />
+        <e p="AddDeviceForm.resx" t="Include" />
+        <e p="AddNewPlantForm.cs" t="Include" />
+        <e p="AddNewPlantForm.Designer.cs" t="Include" />
+        <e p="AddNewPlantForm.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SetCycleDaysForm.cs" t="Include" />
+        <e p="SetCycleDaysForm.Designer.cs" t="Include" />
+        <e p="SetCycleDaysForm.resx" t="Include" />
+        <e p="SetGrowingPlantForm.cs" t="Include" />
+        <e p="SetGrowingPlantForm.Designer.cs" t="Include" />
+        <e p="SetGrowingPlantForm.resx" t="Include" />
+        <e p="SetSensorsShedule.cs" t="Include" />
+        <e p="SetSensorsShedule.Designer.cs" t="Include" />
+        <e p="SetSensorsShedule.resx" t="Include" />
+        <e p="View.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="GreenHouse.sln" t="IncludeFlat" />
+      <e p="Model" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="AcidRegulatorCommand.cs" t="Include" />
+          <e p="AirTemperatureHeaterCommand.cs" t="Include" />
+          <e p="ICommandFactory.cs" t="Include" />
+          <e p="NutrientRegulatorCommand.cs" t="Include" />
+          <e p="WaterTemperatureHeaterCommand.cs" t="Include" />
+        </e>
+        <e p="Entity" t="Include">
+          <e p="ActiveSensor.cs" t="Include" />
+          <e p="DaySchedule.cs" t="Include" />
+          <e p="Device.cs" t="Include" />
+          <e p="EntityBase.cs" t="Include" />
+          <e p="ICommand.cs" t="Include" />
+          <e p="IDevice.cs" t="Include" />
+          <e p="PassiveSensor.cs" t="Include" />
+          <e p="Plant.cs" t="Include" />
+          <e p="Sensor.cs" t="Include" />
+          <e p="SensorSchedule.cs" t="Include" />
+          <e p="Time.cs" t="Include" />
+          <e p="UIElement.cs" t="Include" />
+        </e>
+        <e p="IRepository.cs" t="Include" />
+        <e p="IService.cs" t="Include" />
+        <e p="IServiceFactory.cs" t="Include" />
+        <e p="ITimer.cs" t="Include" />
+        <e p="Model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Service" t="Include">
+          <e p="AddNewDeviceService.cs" t="Include" />
+          <e p="AddNewPlantService.cs" t="Include" />
+          <e p="DeviceFactory.cs" t="Include" />
+          <e p="IAddNewDeviceService.cs" t="Include" />
+          <e p="IAddNewPlantService.cs" t="Include" />
+          <e p="IDeviceFactory.cs" t="Include" />
+          <e p="IMainFormService.cs" t="Include" />
+          <e p="ISetCycleDaysService.cs" t="Include" />
+          <e p="ISetGrowingPlantService.cs" t="Include" />
+          <e p="ISetSensorsSchduleService.cs" t="Include" />
+          <e p="MainFormService.cs" t="Include" />
+          <e p="SetCycleDaysService.cs" t="Include" />
+          <e p="SetGrowingPlantService.cs" t="Include" />
+          <e p="SetSensorsScheduleService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Presentation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Forms" t="Include">
+          <e p="IAddDeviceForm.cs" t="Include" />
+          <e p="IAddNewPlantForm.cs" t="Include" />
+          <e p="IMainForm.cs" t="Include" />
+          <e p="ISetCycleDaysForm.cs" t="Include" />
+          <e p="ISetGrowingPlantForm.cs" t="Include" />
+          <e p="ISetSensorsSchedule.cs" t="Include" />
+          <e p="IView.cs" t="Include" />
+        </e>
+        <e p="IPresenter.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Presentation.csproj" t="IncludeRecursive" />
+        <e p="Presenters" t="Include">
+          <e p="AbstractPresenter.cs" t="Include" />
+          <e p="AddDeviceFormPresenter.cs" t="Include" />
+          <e p="AddNewPlantFormPresenter.cs" t="Include" />
+          <e p="MainFormPresenter.cs" t="Include" />
+          <e p="SetCycleDaysFormPresenter.cs" t="Include" />
+          <e p="SetGrowingPlantFormPresenter.cs" t="Include" />
+          <e p="SetSensorsSchedulePresenter.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

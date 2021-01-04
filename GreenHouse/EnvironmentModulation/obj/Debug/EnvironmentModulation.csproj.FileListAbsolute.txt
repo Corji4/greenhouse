@@ -1,0 +1,6 @@
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\EnvironmentModulation\bin\Debug\EnvironmentModulation.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\EnvironmentModulation\bin\Debug\EnvironmentModulation.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\EnvironmentModulation\obj\Debug\EnvironmentModulation.csprojAssemblyReference.cache
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\EnvironmentModulation\obj\Debug\EnvironmentModulation.csproj.CoreCompileInputs.cache
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\EnvironmentModulation\obj\Debug\EnvironmentModulation.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\EnvironmentModulation\obj\Debug\EnvironmentModulation.pdb

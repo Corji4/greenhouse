@@ -1,0 +1,13 @@
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\Presentation.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\Presentation.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\Model.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\Ninject.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\EnvironmentModulation.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\Model.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\Ninject.xml
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\bin\Debug\EnvironmentModulation.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\obj\Debug\Presentation.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\Presentation\obj\Debug\Presentation.pdb

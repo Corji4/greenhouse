@@ -1,0 +1,13 @@
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\DAL.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\DAL.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\Model.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\Ninject.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\EnvironmentModulation.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\Model.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\Ninject.xml
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\bin\Debug\EnvironmentModulation.pdb
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\obj\Debug\DAL.dll
+D:\учёба\3-ий курс\5 sem\тп\greenhouse-master\GreenHouse\DAL\obj\Debug\DAL.pdb
